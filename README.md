@@ -21,14 +21,3 @@ Then you would be required to download the python package for it for which you c
  - Remember to change the name of the Database for mysql
  - Remember to change the Name of Table used for mysql
 
-## Basic Working
-
-```mermaid
-graph LR
-A[LOGIN PAGE] -- Sign Up page --> B((Database))
-A --> C(DATABASE)
-B --> D{FINAL PRODUCT}
-C --> D
-## Delete a file
-
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
